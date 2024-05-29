@@ -1,6 +1,5 @@
 const axios = require('axios')
 const cheerio = require("cheerio")
-const fetch = require('node-fetch')
 
 async function igdl(url) {
     try {
